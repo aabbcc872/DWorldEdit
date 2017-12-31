@@ -1,0 +1,7 @@
+name: DWorldEdit
+main: dxp.dwe.DWorldEdit
+version: "1.0"
+api: ["1.0.0"]
+load: POSTWORLD
+author: "aabbcc872[dxp]"
+description: "Nukkit WorldEdit创世神"
